@@ -1,5 +1,7 @@
 # Heart Disease Prediction 
 
+   ![image](https://github.com/user-attachments/assets/f930c26e-93e8-44b1-9533-582f8aabc48b)
+ 
 ## Dataset Overview:
 
 The dataset contains 76 attributes, but the analysis focuses on 14 primary features, extracted from the Cleveland database. The target variable is "AHD" (presence of heart disease), with values ranging from 0 (no presence) to 4.
@@ -79,7 +81,6 @@ Age Distribution by AHD:
 
 Patients with heart disease (AHD=1) tend to have higher age ranges.
 
+## Installation: 
 
-
-
-   ![image](https://github.com/user-attachments/assets/f930c26e-93e8-44b1-9533-582f8aabc48b)
+https://github.com/TasneimAhmed/Heart-diseases-detection.git
