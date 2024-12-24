@@ -1,0 +1,72 @@
+Model: Logistic Regression
+  Training Score: 0.8512
+  Accuracy: 0.8525
+  Precision: 0.8526
+  Recall: 0.8525
+  F1 Score: 0.8523
+  Confusion Matrix: 
+[[24  5]
+ [ 4 28]]
+------------------------------
+Model: K-Nearest Neighbors
+  Training Score: 0.8884
+  Accuracy: 0.8852
+  Precision: 0.8858
+  Recall: 0.8852
+  F1 Score: 0.8853
+  Confusion Matrix: 
+[[26  3]
+ [ 4 28]]
+------------------------------
+Model: SVM
+  Training Score: 0.9091
+  Accuracy: 0.8689
+  Precision: 0.8709
+  Recall: 0.8689
+  F1 Score: 0.8689
+  Confusion Matrix: 
+[[26  3]
+ [ 5 27]]
+------------------------------
+Model: Decision Tree
+  Training Score: 1.0000
+  Accuracy: 0.7869
+  Precision: 0.7875
+  Recall: 0.7869
+  F1 Score: 0.7870
+  Confusion Matrix: 
+[[23  6]
+ [ 7 25]]
+------------------------------
+Model: Random Forest
+  Training Score: 1.0000
+  Accuracy: 0.9016
+  Precision: 0.9037
+  Recall: 0.9016
+  F1 Score: 0.9017
+  Confusion Matrix: 
+[[27  2]
+ [ 4 28]]
+------------------------------
+Model: Gradient Boosting
+  Training Score: 0.9959
+  Accuracy: 0.8361
+  Precision: 0.8380
+  Recall: 0.8361
+  F1 Score: 0.8362
+  Confusion Matrix: 
+[[25  4]
+ [ 6 26]]
+------------------------------
+Model: Naive Bayes
+  Training Score: 0.8554
+  Accuracy: 0.8361
+  Precision: 0.8429
+  Recall: 0.8361
+  F1 Score: 0.8359
+  Confusion Matrix: 
+[[26  3]
+ [ 7 25]]
+------------------------------
+
+Best Model: Random Forest with Accuracy: 0.9016
